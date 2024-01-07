@@ -14,13 +14,13 @@ The Waste Classifier App is a Flutter application that utilizes a machine learni
 
 ## Screenshots
 
-![App Screenshot 1](/screenshots/screenshot1.jpg)
+![App Screenshot 1](/screenshot1.jpg)
 *Main Screen of App after opening with camera option at right bottom*
 
-![App Screenshot 2](/screenshots/screenshot2.jpg)
+![App Screenshot 2](/screenshot2.jpg)
 *After capturing image, Model Loading for prediction*
 
-![App Screenshot 3](/screenshots/screenshot3.jpg)
+![App Screenshot 3](/screenshot3.jpg)
 *Predicted output against Image*
 
 
