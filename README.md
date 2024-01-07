@@ -1,28 +1,28 @@
 # Waste Classifier App
 
-Welcome to Waste Classifier App, an application that classifies waste into organic and recyclable categories using machine learning.
+Welcome to the Waste Classifier App, an application that classifies waste into organic and recyclable categories using deep learning.
 
 ## Overview
 
-The Waste Classifier App is a Flutter application that utilizes a machine learning model to classify images of waste. The model has been trained to identify whether the waste is organic or recyclable. The application provides a simple and intuitive interface for users to capture waste images using their device's camera and receive real-time classification results.
+The Waste Classifier App is a Flutter application that utilizes a deep learning model to classify images of waste. The model has been trained to identify whether the waste is organic or recyclable. The application provides a simple and intuitive interface for users to capture waste images using their device's camera and receive real-time classification results.
 
 ## Features
 
 - **Real-time Image Classification**: Capture waste images using the device's camera for instant classification.
-- **Machine Learning Model**: The app employs a machine learning model to make accurate predictions.
+- **Machine Learning Model**: The app employs a deep learning model to make accurate predictions.
 - **User-Friendly Interface**: Intuitive design for a seamless user experience.
 
 ## Screenshots
 
-![App Screenshot 1](/screenshot1.jpg)
-*Main Screen of App after opening with camera option at right bottom*
+<p align="center">
+  <img src="/screenshot1.jpg" alt="Main Screen" width="250" style="border: 2px solid #555; border-radius: 10px; margin: 5px;"/>
+  <img src="/screenshot2.jpg" alt="Model Loading" width="250" style="border: 2px solid #555; border-radius: 10px; margin: 5px;"/>
+  <img src="/screenshot3.jpg" alt="Predicted Output" width="250" style="border: 2px solid #555; border-radius: 10px; margin: 5px;"/>
+</p>
 
-![App Screenshot 2](/screenshot2.jpg)
-*After capturing image, Model Loading for prediction*
-
-![App Screenshot 3](/screenshot3.jpg)
-*Predicted output against Image*
-
+<p align="center" style="font-style: italic; font-size: 14px; color: #777;">
+  Running cycle of the app from capturing an image to running deep learning model to output
+</p>
 
 ## Getting Started
 
@@ -39,13 +39,13 @@ Follow these steps to get the Waste Classifier App up and running on your local 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/waste-classifier-app.git
+    git clone https://github.com/zahidparviz/waster_classifier_app.git
     ```
 
 2. Change into the project directory:
 
     ```bash
-    cd waste-classifier-app
+    cd waster-classifier-app
     ```
 
 3. Open the project in your preferred IDE (Android Studio/VS Code).
@@ -75,5 +75,11 @@ If you'd like to contribute to the project, please follow the guidelines in [CON
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Author
+
+**Your Name**  
+Email: [pervaizzahid55@gmail.com](mailto:pervaizzahid55@gmail.com)  
+GitHub: [zahidparviz](https://github.com/zahidparviz)
 
 ---
