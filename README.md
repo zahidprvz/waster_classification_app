@@ -39,7 +39,7 @@ Follow these steps to get the Waste Classifier App up and running on your local 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/zahidparviz/waster_classifier_app.git
+    git clone https://github.com/zahidprvz/waster_classifier_app.git
     ```
 
 2. Change into the project directory:
@@ -80,6 +80,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Your Name**  
 Email: [pervaizzahid55@gmail.com](mailto:pervaizzahid55@gmail.com)  
-GitHub: [zahidparviz](https://github.com/zahidparviz)
+GitHub: [zahidparviz](https://github.com/zahidprvz)
 
 ---
